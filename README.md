@@ -33,7 +33,7 @@ This project demonstrates practical data visualization, business intelligence, a
 ---
 
 ## 🖼️ Dashboard Preview
-![Retail Sales Tracker Dashboard](Retail_SalesTracker.png)
+![Retail Sales Tracker Dashboard](Retail_SalesTracker.svg)
 
 ---
 
